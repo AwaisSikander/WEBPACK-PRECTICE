@@ -5,6 +5,4 @@ el.classList.add(['button'])
 el.onclick = function(){
     alert('Clicked')
 }
-
-
 document.body.appendChild(el)
