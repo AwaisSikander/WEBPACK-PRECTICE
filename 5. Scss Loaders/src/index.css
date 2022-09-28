@@ -1,0 +1,10 @@
+#header{
+    text-decoration: dotted;
+    color: blueviolet;
+}
+
+:global(.button){
+    background-color: brown;
+    color: white;
+    padding: 10px;
+}
